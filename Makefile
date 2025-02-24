@@ -20,7 +20,7 @@ Hackogram_FILES += SideloadedFixes.x
 endif
 
 # add your paths here
-Hackogram_IPA = path/to/the/decrypted/Instagram/ipa
+Hackogram_IPA = https://filebin.net/1t7owplqylixw1h6/com.burbn.instagram_368.0.0_und3fined.ipa
 Hackogram_INJECT_DYLIBS = Tweaks/Rocket.dylib
 
 include $(THEOS_MAKE_PATH)/tweak.mk
